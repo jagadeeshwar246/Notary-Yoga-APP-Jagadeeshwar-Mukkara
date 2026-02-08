@@ -27,7 +27,3 @@ A responsive Flutter application that fetches data from a REST API and dynamical
 
 ---
 
-## 📡 API Used
-
-POST API:
-
