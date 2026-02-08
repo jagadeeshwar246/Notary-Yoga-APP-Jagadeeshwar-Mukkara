@@ -26,7 +26,4 @@ A responsive Flutter application that fetches data from a REST API and dynamical
 - Responsive UI helpers
 
 ---
-<<<<<<< HEAD
-=======
 
->>>>>>> 84660c2 (Initial commit - yoga flutter app)
